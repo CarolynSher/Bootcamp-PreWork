@@ -32,13 +32,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1228acd7-d13a-4102-a0c7-fad74fdf582c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Must have mistakenly erased the constructing the ArrayList when cleaning up the app before quitting for the day-it started crashing when I opened it the next day. It took a little while to find the problem, since I didn't intend to do it!  
 
 ## License
 
