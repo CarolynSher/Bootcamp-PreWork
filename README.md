@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<embed src='https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1228acd7-d13a-4102-a0c7-fad74fdf582c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1228acd7-d13a-4102-a0c7-fad74fdf582c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
