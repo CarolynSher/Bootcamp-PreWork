@@ -1,5 +1,5 @@
 # Bootcamp-PreWork
-# Pre-work - *Name of App Here*
+# Pre-work - *TodoAppDatabase*
 
 **Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -35,9 +35,23 @@ Here's a walkthrough of implemented user stories:
 <a href='http://decusatis.net/carolyn/DatabaseWalkThru.mp4' title='Video Walkthrough'> Video Walkthrough of Project with Database</a>
 
 
+## Project Analysis
+
+As part of your pre-work submission, please reflect on the app and answer the following questions below:
+
+**Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
+
+**Answer:** [Enter your answer here in a paragraph or two].
+
+**Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
+
+**Answer:** [Enter your answer here in a paragraph or two].
+
 ## Notes
 
-Must have mistakenly erased the constructing the ArrayList when cleaning up the app before quitting for the day-it started crashing when I opened it the next day. It took a little while to find the problem, since I didn't intend to do it!  
+Must have mistakenly erased the constructing the ArrayList when cleaning up the app before quitting for the day-it started crashing when I opened it the next day. It took a little while to find the problem, since I didn't intend to do it! 
+
+When adding the database things went relatively smoothly.  Followed http://www.vogella.com/tutorials/AndroidSQLite/article.html
 
 ## License
 
