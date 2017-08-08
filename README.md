@@ -47,7 +47,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Answer:** In my work so far, I use a standard ArrayAdapter to convert an ArrayList so it can be displayed ListView. As it states in the Android Developer's Guide, it's a bridge between the view and the underlying data, which is important because it links the backend to the users. In my application, the arraylist is populated from a database. It adds and removes items from the view, and is notified if the list is changed. 
 
-The getView() method gets a View that displays the data at the specified positon of the data set. convertView is the old view in which to display the information. I don't really use it in my application- the information is simple enough that I just pass it between intents in the extras of the Bundle. But I suppose this reflection is here to prompt me to consider using it as I modify the application, and make the information to pass is more complex. 
+The getView() method gets a View that displays the data at the specified positon of the data set. convertView is the old view in which to display the information. I don't really use it in my application- the information is simple enough that I just pass it between intents in the extras of the Bundle. But I suppose this reflection is here to prompt me to consider using it as I modify the application, and pass more complex information. 
 
 ## Notes
 
